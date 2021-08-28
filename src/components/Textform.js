@@ -37,33 +37,33 @@ export default function Textform(props) {
 
 
 
-    // Writing code for enabling dark mode in our present website
-    const [myStyle, setMyStyle] =  useState({
-        color:'black',
-        backgroundColor:'white', 
-        // border:'2px solid green'
-    });
+    // // Writing code for enabling dark mode in our present website
+    // const [myStyle, setMyStyle] =  useState({
+    //     color:'black',
+    //     backgroundColor:'white', 
+    //     // border:'2px solid green'
+    // });
 
-    const [btnMode, setbtnMode] = useState( 'Enable dark Mode');
+    // const [btnMode, setbtnMode] = useState( 'Enable dark Mode');
 
-    const toggleStyle = ()=>{
-        if(myStyle.color === 'black'){
-            setMyStyle({
-                color:'white',
-                backgroundColor:'black'
-            })
-            setbtnMode('Enable light mode')
-        }
-        else{
-            setMyStyle(
-                {
-                    color:'black',
-                    backgroundColor:'white'
-                } )
-                setbtnMode('Enable dark Mode');
-        }
+    // const toggleStyle = ()=>{
+    //     if(myStyle.color === 'black'){
+    //         setMyStyle({
+    //             color:'white',
+    //             backgroundColor:'black'
+    //         })
+    //         setbtnMode('Enable light mode')
+    //     }
+    //     else{
+    //         setMyStyle(
+    //             {
+    //                 color:'black',
+    //                 backgroundColor:'white'
+    //             } )
+    //             setbtnMode('Enable dark Mode');
+    //     }
 
-    }
+    // }
 
     return (
     <>
@@ -75,7 +75,7 @@ export default function Textform(props) {
         <button className="btn btn-primary mx-3"   onClick={onClickChange} >Convert to UC</button>
         <button className="btn btn-primary mx-2" onClick={handleOnChange}>Convert to LC</button>
         <button className="btn btn-primary mx-2" onClick={onClear}>Clear Text</button>
-        <button className="btn btn-primary mx-5"  onClick={toggleStyle}>Enable dark Mode</button>
+        {/* <button className="btn btn-primary mx-5"  onClick={toggleStyle}>Enable dark Mode</button> */}
 
         <h1>Your text summary</h1>
         <p>Your text contains {text.split(" ").length} words and {(text.length)} characters </p>
