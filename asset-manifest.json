@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vishnu1797/Text-Converter---React/static/css/main.ea1455b2.chunk.css",
-    "main.js": "/vishnu1797/Text-Converter---React/static/js/main.abfe8074.chunk.js",
-    "main.js.map": "/vishnu1797/Text-Converter---React/static/js/main.abfe8074.chunk.js.map",
-    "runtime-main.js": "/vishnu1797/Text-Converter---React/static/js/runtime-main.cb36d8e4.js",
-    "runtime-main.js.map": "/vishnu1797/Text-Converter---React/static/js/runtime-main.cb36d8e4.js.map",
-    "static/js/2.32b66f61.chunk.js": "/vishnu1797/Text-Converter---React/static/js/2.32b66f61.chunk.js",
-    "static/js/2.32b66f61.chunk.js.map": "/vishnu1797/Text-Converter---React/static/js/2.32b66f61.chunk.js.map",
-    "static/js/3.d8d7da1f.chunk.js": "/vishnu1797/Text-Converter---React/static/js/3.d8d7da1f.chunk.js",
-    "static/js/3.d8d7da1f.chunk.js.map": "/vishnu1797/Text-Converter---React/static/js/3.d8d7da1f.chunk.js.map",
-    "index.html": "/vishnu1797/Text-Converter---React/index.html",
-    "static/css/main.ea1455b2.chunk.css.map": "/vishnu1797/Text-Converter---React/static/css/main.ea1455b2.chunk.css.map",
-    "static/js/2.32b66f61.chunk.js.LICENSE.txt": "/vishnu1797/Text-Converter---React/static/js/2.32b66f61.chunk.js.LICENSE.txt"
+    "main.css": "/vishnu1797/Text-Converter-React/static/css/main.ea1455b2.chunk.css",
+    "main.js": "/vishnu1797/Text-Converter-React/static/js/main.abfe8074.chunk.js",
+    "main.js.map": "/vishnu1797/Text-Converter-React/static/js/main.abfe8074.chunk.js.map",
+    "runtime-main.js": "/vishnu1797/Text-Converter-React/static/js/runtime-main.b980cfc6.js",
+    "runtime-main.js.map": "/vishnu1797/Text-Converter-React/static/js/runtime-main.b980cfc6.js.map",
+    "static/js/2.32b66f61.chunk.js": "/vishnu1797/Text-Converter-React/static/js/2.32b66f61.chunk.js",
+    "static/js/2.32b66f61.chunk.js.map": "/vishnu1797/Text-Converter-React/static/js/2.32b66f61.chunk.js.map",
+    "static/js/3.d8d7da1f.chunk.js": "/vishnu1797/Text-Converter-React/static/js/3.d8d7da1f.chunk.js",
+    "static/js/3.d8d7da1f.chunk.js.map": "/vishnu1797/Text-Converter-React/static/js/3.d8d7da1f.chunk.js.map",
+    "index.html": "/vishnu1797/Text-Converter-React/index.html",
+    "static/css/main.ea1455b2.chunk.css.map": "/vishnu1797/Text-Converter-React/static/css/main.ea1455b2.chunk.css.map",
+    "static/js/2.32b66f61.chunk.js.LICENSE.txt": "/vishnu1797/Text-Converter-React/static/js/2.32b66f61.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.cb36d8e4.js",
+    "static/js/runtime-main.b980cfc6.js",
     "static/js/2.32b66f61.chunk.js",
     "static/css/main.ea1455b2.chunk.css",
     "static/js/main.abfe8074.chunk.js"
